@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="crear_tarea">Crear Tarea</string>
+</resources>
